@@ -3,7 +3,7 @@
 
 TDD姿势：
 
-![image](/raw/master/assets/images/tdd-flow.jpg)
+![image](https://github.com/oo-bootcamp/tdd-fiber-number/raw/master/assets/images/tdd-flow.jpg)
 
 ## Requirment
 设计一个程序，用于计算前50位斐波那契数值。
