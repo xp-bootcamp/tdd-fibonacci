@@ -1,6 +1,10 @@
 # 测试驱动开发实战
 这是一个TDD实战项目，利用TDD的方式来实现斐波那契数的计算。欢迎观看 [视频教程](https://www.bilibili.com/video/av27452115)。
 
+TDD姿势：
+
+![image](/raw/master/assets/images/tdd-flow.jpg)
+
 ## Requirment
 设计一个程序，用于计算前50位斐波那契数值。
 
