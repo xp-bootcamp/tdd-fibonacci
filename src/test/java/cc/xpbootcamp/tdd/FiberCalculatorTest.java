@@ -1,4 +1,4 @@
-package club.oobootcamp.tdd;
+package cc.xpbootcamp.tdd;
 
 import org.junit.jupiter.api.Test;
 

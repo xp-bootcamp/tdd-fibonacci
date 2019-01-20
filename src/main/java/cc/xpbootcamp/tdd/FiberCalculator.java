@@ -1,4 +1,4 @@
-package club.oobootcamp.tdd;
+package cc.xpbootcamp.tdd;
 
 public class FiberCalculator {
     public static long calculate(int index) {
