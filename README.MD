@@ -21,6 +21,5 @@ When 位数为2，Then 返回1
 
 
 ## 参考资料
-- [JUnit 5用户指南](https://sjyuan.cc/junit5/user-guide-cn/)
 - [Gradle 用户指南](https://docs.gradle.org/current/userguide/userguide.html)
-- [视频教程](https://www.bilibili.com/video/av27452115)。
+- [视频教程](https://www.bilibili.com/video/av27452115)
